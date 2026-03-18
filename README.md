@@ -26,8 +26,12 @@ constraints, smaller sizes, and higher capital intensity.
 ## Institutional Settings
 This study is situated within China's major fiscal reforms aimed at reducing tax burdens and optimizing the business environment:
 1. The VAT System in China: As China’s largest tax source (contributing nearly 40% of national tax revenue), the VAT system operates on an invoice-based credit method.
-2. Policy Shock (2018 & 2022): The study leverages the VAT Credit Refund Policy introduced in June 2018 (initially targeting 18 designated industries) and its major expansion in 2022 (covering 16 industries, including manufacturing and small/micro enterprises). For government policy document, see: https://www.chinatax.gov.cn/chinatax/n810341/n810765/n3359382/201807/c3730844/content.html (2018 first implementation); https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202030/content.html#:~:text=%E5%9B%BD%E5%AE%B6%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84%E5%BA%93 (2022 further expansion).
+2. Policy Shock (2018 & 2022): The study leverages the VAT Credit Refund Policy introduced in June 2018 (initially targeting 18 designated industries) and its major expansion in 2022 (covering 16 industries, including manufacturing and small/micro enterprises). 
 3. Economic Rationale: The policy aims to transform "excess input VAT" (which previously sat as an unusable credit on balance sheets) into immediate cash flow, thereby alleviating liquidity constraints and enhancing risk resilience.
+
+Government policy document:
+1. 2018 first implementation: https://www.chinatax.gov.cn/chinatax/n810341/n810765/n3359382/201807/c3730844/content.html (2018 first implementation);
+2. 2022 further expansion: https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202030/content.html#:~:text=%E5%9B%BD%E5%AE%B6%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84%E5%BA%93.
 
 ## Data Source
 The empirical analysis relies on a comprehensive micro-level dataset of Chinese firms:Sample Scope: 
