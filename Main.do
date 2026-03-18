@@ -1,7 +1,3 @@
-                   //////////// 实证部分 ////////////
-
-                   //////////// 基本设置 ////////////
-				  
 clear
 import excel "C:\Users\16654\Desktop\论文提升计划\hetercf.xlsx", sheet("Sheet1") firstrow
 
