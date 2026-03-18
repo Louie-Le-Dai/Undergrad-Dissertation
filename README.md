@@ -2,7 +2,11 @@
 This is the stata and R code for my undergrad thesis, completed in Oct 2025.
 
 ## Title:VAT Credit Refund, Corporate Liquidity andFinancial Flexibility
-## Author: Le Dai ()
+Author: Le Dai (Zhejiang University of Finance and Economics)
+
+## Exective Summary
+
+
 ## Abstract
   In 2018, China implemented the Value-added Tax (VAT) Credit Refund Policy, which was further
 expanded in 2022 to provide additional cash flow to businesses. This tax incentive policy significantly
@@ -18,5 +22,18 @@ Dynamic effect analysis reveals that businesses first use the refunded VAT to re
 before expanding investments and R&D to enhance profitability. Finally, heterogeneity analysis shows
 that the policy has a more significant impact on the financial flexibility of firms with higher financing
 constraints, smaller sizes, and higher capital intensit
+
+## Institutional Settings
+
+
+## Data
+
+
+## Empirical Design
+
+
+
+
+
 
 
