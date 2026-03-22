@@ -32,14 +32,15 @@ The paper treats the VAT refund policy as a quasi-natural experiment to identify
 2. Dependent Variable: A **composite** Financial Flexibility (FF) Index constructed from debt capacity, cash holdings, cash flow volatility, and external financing costs using the Analytic Hierarchy Process (AHP) and the coefficient of variation method.
 3. Fixed Effects: Includes Firm, Year, and Province-by-Year fixed effects to control for unobserved heterogeneity and variations in local tax enforcement intensity.
 4. Robustness & Advanced Metrics: Parallel Trend Tests: Verified that treatment and control groups shared indistinguishable trends prior to policy implementation.
-5. Selection Bias Correction: Combined DID with Propensity Score Matching (PSM) (Nearest-Neighbor and Kernel matching).Alternative Estimators: Validated results using **CSDID** (Callaway and Sant’Anna) for staggered adoption and Double Machine Learning (DML) for high-dimensional settings.
-6. Heterogeneity Analysis: Explored varied impacts using Causal Forests (Generalized Random Forest framework) to identify non-linear relationships and rank variable importance.
+5. Selection Bias Correction: Combined DID with Propensity Score Matching (PSM) (Nearest-Neighbor and Kernel matching).
+6. Alternative Estimators: Validated results using **CSDID** (Callaway and Sant’Anna) for staggered adoption and Double Machine Learning (DML) for high-dimensional settings.
+7. Heterogeneity Analysis: Explored varied impacts using Causal Forests (Generalized Random Forest framework) to identify non-linear relationships and rank variable importance.
 
 ## Main References
 1. Athey,S., & Imbens, G.W. (2016). Recursive partitioning for heterogeneous causal effects. *Proceedings of the National Academy of Sciences, 113*(27),7353–7360.
-2. Callaway,B., & Sant’Anna, P.H.C.(2021). Difference-in-differences with multiple time periods. *Journal of Econometrics, 225*(2), 200–230.
-3. Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo,E., Hansen, C., Newey, W., & Robins,J.(2018). Double/debiased machine learning for treatment and structural parameters.*The Econometrics Journal,21*(1),C1–C68.
-4. Liu, Y., & Mao, J. (2019). How do tax incentives affect investment and productivity? firm-level evidence from china. *American Economic Journal: Economic Policy, 11*(3), 261–291.
+2. Callaway, B., & Sant’Anna, P.H.C.(2021). Difference-in-differences with multiple time periods. *Journal of Econometrics, 225*(2), 200–230.
+3. Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo, E., Hansen, C., Newey, W., & Robins, J. (2018). Double/debiased machine learning for treatment and structural parameters. *The Econometrics Journal, 21*(1),C1–C68.
+4. Liu, Y., & Mao, J. (2019). How do tax incentives affect investment and productivity? Firm-level evidence from china. *American Economic Journal: Economic Policy, 11*(3), 261–291.
 5. Yagan, D. (2015). Capital tax reform and the real economy: The effects of the 2003 dividend tax cut. *American Economic Review, 105*(12), 3531–3563.
 6. Zwick, E., & Mahon, J. (2017). Tax policy and heterogeneous investment behavior. *American Economic Review, 107*(1), 217–248.
 
