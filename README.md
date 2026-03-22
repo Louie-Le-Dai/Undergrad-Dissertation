@@ -37,10 +37,11 @@ The paper treats the VAT refund policy as a quasi-natural experiment to identify
 
 ## Main References
 1. Athey,S., & Imbens, G.W. (2016). Recursive partitioning for heterogeneous causal effects. *Proceedings of the National Academy of Sciences, 113*(27),7353–7360.
-2. Callaway,B., & Sant’Anna, P.H.C.(2021). Difference-in-differences with multiple time periods. *Journal of Econometrics, 225*(2), 200–230. Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo,E., Hansen, C., Newey, W., & Robins,J.(2018). Double/debiased machine learning for treatment and structural parameters.*The Econometrics Journal,21*(1),C1–C68.
-3. Liu, Y., & Mao, J. (2019). How do tax incentives affect investment and productivity? firm-level evidence from china. *American Economic Journal: Economic Policy, 11*(3), 261–291.
-4. Yagan, D. (2015). Capital tax reform and the real economy: The effects of the 2003 dividend tax cut. *American Economic Review, 105*(12), 3531–3563.
-5. Zwick, E., & Mahon, J. (2017). Tax policy and heterogeneous investment behavior. *American Economic Review, 107*(1), 217–248.
+2. Callaway,B., & Sant’Anna, P.H.C.(2021). Difference-in-differences with multiple time periods. *Journal of Econometrics, 225*(2), 200–230.
+3. Chernozhukov, V., Chetverikov, D., Demirer, M., Duflo,E., Hansen, C., Newey, W., & Robins,J.(2018). Double/debiased machine learning for treatment and structural parameters.*The Econometrics Journal,21*(1),C1–C68.
+4. Liu, Y., & Mao, J. (2019). How do tax incentives affect investment and productivity? firm-level evidence from china. *American Economic Journal: Economic Policy, 11*(3), 261–291.
+5. Yagan, D. (2015). Capital tax reform and the real economy: The effects of the 2003 dividend tax cut. *American Economic Review, 105*(12), 3531–3563.
+6. Zwick, E., & Mahon, J. (2017). Tax policy and heterogeneous investment behavior. *American Economic Review, 107*(1), 217–248.
 
 
 
