@@ -17,7 +17,7 @@ This study is situated within China's major fiscal reforms aimed at reducing tax
 3. Economic Rationale: The policy aims to transform "excess input VAT" (which previously sat as an unusable credit on balance sheets) into immediate cash flow, thereby alleviating liquidity constraints and enhancing risk resilience.
 
 Government policy document:
-1. 2018 first implementation: https://www.chinatax.gov.cn/chinatax/n810341/n810765/n3359382/201807/c3730844/content.html (2018 first implementation);
+1. 2018 first implementation: https://www.chinatax.gov.cn/chinatax/n810341/n810765/n3359382/201807/c3730844/content.html;
 2. 2022 further expansion: https://fgk.chinatax.gov.cn/zcfgk/c102416/c5202030/content.html#:~:text=%E5%9B%BD%E5%AE%B6%E7%A8%8E%E5%8A%A1%E6%80%BB%E5%B1%80%E6%94%BF%E7%AD%96%E6%B3%95%E8%A7%84%E5%BA%93.
 
 ## Data Source
