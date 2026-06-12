@@ -1,5 +1,5 @@
 clear
-import excel "C:\Users\16654\Desktop\论文提升计划\hetercf.xlsx", sheet("Sheet1") firstrow
+import excel "C:\Users\16654\Desktop\论文提升计划\data.xlsx", sheet("Sheet1") firstrow
 
 xtset Stkcd date
 
