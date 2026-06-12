@@ -44,7 +44,12 @@ The paper treats the VAT refund policy as a quasi-natural experiment to identify
 5. Yagan, D. (2015). Capital tax reform and the real economy: The effects of the 2003 dividend tax cut. *American Economic Review, 105*(12), 3531–3563.
 6. Zwick, E., & Mahon, J. (2017). Tax policy and heterogeneous investment behavior. *American Economic Review, 107*(1), 217–248.
 
-
+## Repository Structure
+- code/Preprocessing: data cleaning (Python)
+- code/Robustness: PSM, placebo, alternative FE (Stata)
+- code/Heterogeneous: subgroup and causal forest analysis
+- code/Appendix: Causal Forest analysis
+- Main.do: master script, runs full analysis end-to-end****
 
 
 
