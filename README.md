@@ -1,7 +1,7 @@
  # Undergrad Dissertation: Tax Policy and Firm Financial Behaviors
 This is the stata and R code for my undergrad thesis, completed in Oct 2025.
 
-## Title:VAT Credit Refund, Corporate Liquidity andFinancial Flexibility
+## Title:VAT Credit Refund, Corporate Liquidity and Financial Flexibility
 Author: Le Dai (Zhejiang University of Finance and Economics)
 
 ## Exective Summary
