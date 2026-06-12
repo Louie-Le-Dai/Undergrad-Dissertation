@@ -50,6 +50,7 @@ The paper treats the VAT refund policy as a quasi-natural experiment to identify
 - code/Heterogeneous: subgroup and causal forest analysis
 - code/Appendix: Causal Forest analysis
 - Main.do: master script, runs full analysis end-to-end****
+- Outputs: Some of the output document of this paper.
 
 
 
